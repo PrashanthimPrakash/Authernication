@@ -1,0 +1,31 @@
+#username-msg{
+    color:white;
+}
+
+#authentication{
+    background-color: blueviolet;
+    margin-top: 200px;
+    padding: 50px;
+
+}
+body{
+    width: 500px;
+    height: 200px;
+   margin-left: 400px;
+}
+#username,#password,#submitBtn{
+    width: 400px;
+    height: 30px;
+    border-radius: 2px;
+}
+#submitBtn{
+    margin-top: 20px;
+}
+h1{
+    margin-left: 130px;
+    font-size: 45px;
+    
+}
+body{
+    background-color: rgb(73, 71, 76);
+}
